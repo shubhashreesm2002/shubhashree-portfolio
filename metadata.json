@@ -1,0 +1,6 @@
+{
+  "name": "Project Beta",
+  "description": "A high-end, futuristic portfolio for AI workflow automation, featuring intelligent system integrations, bento project grids, dynamic flow visualizations, and a live pricing calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
